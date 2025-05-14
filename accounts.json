@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Savings",
+        "Owner": "Nora",
+        "Balance": 300.0
+    },
+    {
+        "Name": "Checking",
+        "Owner": "Nora",
+        "Balance": 500.0
+    }
+]
